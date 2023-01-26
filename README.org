@@ -1,10 +1,10 @@
 * Spring 2023 - Lab 01
 
-* Last name: 
+* Last name: Zamansky
 
-* First name: 
+* First name: Mike
 
-* GitHub username: 
+* GitHub username: zamansky 
 
 * Notes:
 
